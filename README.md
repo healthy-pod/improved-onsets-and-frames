@@ -1,4 +1,6 @@
-# This implementation is based on a fork of https://github.com/jongwook/onsets-and-frames
+# Improved implementation of Onsets and Frames
+
+This implementation is based on a fork of https://github.com/jongwook/onsets-and-frames
 
 We experimented with several architectures and found that the AllConv architecture [1] gives a better performance when used as the acoustic model (changes can be seen at onsets_and_frames/transcriber.py).
 
