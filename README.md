@@ -4,7 +4,7 @@ We experimented with several architectures and found that the AllConv architectu
 
 [1] https://arxiv.org/abs/1612.05153
 
-![Comparing original paper and our improved model](https://github.com/[healthy-pod]/[improved-onsets-and-frames]/blob/[master]/train-maestro-eval-maps.png?raw=true)
+![Comparing original paper and our improved model](https://github.com/healthy-pod/improved-onsets-and-frames/blob/master/train-maestro-eval-maps.png?raw=true)
 
 # PyTorch Implementation of Onsets and Frames
 
