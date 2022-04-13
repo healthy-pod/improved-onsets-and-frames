@@ -4,6 +4,8 @@ We experimented with several architectures and found that the AllConv architectu
 
 [1] https://arxiv.org/abs/1612.05153
 
+![Comparing original paper and our improved model](https://github.com/[healthy-pod]/[improved-onsets-and-frames]/blob/[master]/train-maestro-eval-maps.png?raw=true)
+
 # PyTorch Implementation of Onsets and Frames
 
 This is a [PyTorch](https://pytorch.org/) implementation of Google's [Onsets and Frames](https://magenta.tensorflow.org/onsets-frames) model, using the [Maestro dataset](https://magenta.tensorflow.org/datasets/maestro) for training and the Disklavier portion of the [MAPS database](http://www.tsi.telecom-paristech.fr/aao/en/2010/07/08/maps-database-a-piano-database-for-multipitch-estimation-and-automatic-transcription-of-music/) for testing.
